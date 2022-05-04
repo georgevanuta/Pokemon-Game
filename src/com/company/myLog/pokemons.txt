@@ -1,0 +1,498 @@
+2022-02-08 20:12:26 [INFO] 
+
+-----Evenimentul este batalia vs Neutrel2-----
+2022-02-08 20:12:26 [INFO] --Primul antrenor este:
+2022-02-08 20:12:26 [INFO] Antrenorul George cu varsta de 21 si cu pokemonii:
+Nume: Pikachu Hp: 35 SpAtt: 4 Def: 2 SpDef: 3
+Nume: Charmander Hp: 50 Att: 4 Def: 3 SpDef: 2
+Nume: Bulbasaur Hp: 42 SpAtt: 5 Def: 3 SpDef: 1
+
+2022-02-08 20:12:26 [INFO] --Iar cel de-al doilea:
+2022-02-08 20:12:26 [INFO] Antrenorul Ketchum cu varsta de 87 si cu pokemonii:
+Nume: Bulbasaur Hp: 42 SpAtt: 5 Def: 3 SpDef: 1
+Nume: Pikachu Hp: 35 SpAtt: 4 Def: 2 SpDef: 3
+Nume: Jigglypuff Hp: 34 Att: 4 Def: 2 SpDef: 3
+
+2022-02-08 20:12:26 [INFO] Sa inceapa meciurile!
+2022-02-08 20:12:26 [INFO] 
+
+Primul duel va incepe!
+2022-02-08 20:12:26 [INFO] George il cheama in batalie pe Pikachu
+2022-02-08 20:12:26 [INFO] Itemele lui Pikachu sunt Scut Vesta Sabiuta 
+2022-02-08 20:12:26 [INFO] Pokemonul s-a echipat si are urmatorarele atribute:
+2022-02-08 20:12:26 [INFO] Nume: Pikachu Hp: 45 SpAtt: 6 Def: 4 SpDef: 2
+2022-02-08 20:12:26 [INFO] Pikachu used ABILITY2 which dealt 4(4-0) damage!
+2022-02-08 20:12:26 [INFO] Neutrel2 now has 16 HP!
+2022-02-08 20:12:27 [INFO] Pikachu is dodging this turn!
+2022-02-08 20:12:27 [INFO] Pikachu used SPECIAL_ATTACK which dealt 5(6-1) damage!
+2022-02-08 20:12:27 [INFO] Neutrel2 now has 11 HP!
+2022-02-08 20:12:28 [INFO] Neutrel2 is stunned this turn!
+2022-02-08 20:12:28 [INFO] Pikachu used SPECIAL_ATTACK which dealt 5(6-1) damage!
+2022-02-08 20:12:28 [INFO] Neutrel2 now has 6 HP!
+2022-02-08 20:12:29 [INFO] Neutrel2 used ATTACK which dealt 0(4-4) damage!
+2022-02-08 20:12:29 [INFO] Pikachu now has 45 HP!
+2022-02-08 20:12:29 [INFO] Pikachu used ABILITY1 which dealt 6(6-0) damage!
+2022-02-08 20:12:29 [INFO] Neutrel2 now has 0 HP!
+2022-02-08 20:12:30 [INFO] Pikachu has won the match!
+2022-02-08 20:12:30 [INFO] Pokemonul castiagtor al lui George a evoluat!
+2022-02-08 20:12:30 [INFO] Nume: Pikachu Hp: 36 SpAtt: 5 Def: 3 SpDef: 4
+2022-02-08 20:12:30 [INFO] 
+
+Al doilea duel va incepe!
+2022-02-08 20:12:30 [INFO] Ketchum il cheama in batalie pe Bulbasaur!
+2022-02-08 20:12:30 [INFO] Pokemonul s-a echipat si are urmatorarele atribute:
+2022-02-08 20:12:30 [INFO] Nume: Bulbasaur Hp: 44 SpAtt: 9 Def: 6 SpDef: 3
+2022-02-08 20:12:30 [INFO] Bulbasaur used SPECIAL_ATTACK which dealt 8(9-1) damage!
+2022-02-08 20:12:30 [INFO] Neutrel2 now has 12 HP!
+2022-02-08 20:12:31 [INFO] Neutrel2 used ATTACK which dealt 0(4-6) damage!
+2022-02-08 20:12:31 [INFO] Bulbasaur now has 44 HP!
+2022-02-08 20:12:31 [INFO] Bulbasaur used ABILITY1 which dealt 6(6-0) damage!
+2022-02-08 20:12:31 [INFO] Neutrel2 now has 6 HP!
+2022-02-08 20:12:32 [INFO] Neutrel2 used ATTACK which dealt 0(4-6) damage!
+2022-02-08 20:12:32 [INFO] Bulbasaur now has 44 HP!
+2022-02-08 20:12:32 [INFO] Bulbasaur used SPECIAL_ATTACK which dealt 8(9-1) damage!
+2022-02-08 20:12:32 [INFO] Neutrel2 now has -2 HP!
+2022-02-08 20:12:33 [INFO] Bulbasaur has won the match!
+2022-02-08 20:12:33 [INFO] Pokemonul castiagtor al lui Ketchum a evoluat!
+2022-02-08 20:12:33 [INFO] Nume: Bulbasaur Hp: 43 SpAtt: 6 Def: 4 SpDef: 2
+2022-02-08 20:12:33 [INFO] !!!Ambii antrenori au trecut acest eveniment!!!
+2022-02-08 20:12:33 [INFO] !!!Sa trecem la urmatorul eveniment!!!
+2022-02-08 20:12:33 [INFO] 
+
+-----Evenimentul este batalia vs Neutrel2-----
+2022-02-08 20:12:33 [INFO] --Primul antrenor este:
+2022-02-08 20:12:33 [INFO] Antrenorul George cu varsta de 21 si cu pokemonii:
+Nume: Pikachu Hp: 36 SpAtt: 5 Def: 3 SpDef: 4
+Nume: Charmander Hp: 50 Att: 4 Def: 3 SpDef: 2
+Nume: Bulbasaur Hp: 42 SpAtt: 5 Def: 3 SpDef: 1
+
+2022-02-08 20:12:33 [INFO] --Iar cel de-al doilea:
+2022-02-08 20:12:33 [INFO] Antrenorul Ketchum cu varsta de 87 si cu pokemonii:
+Nume: Bulbasaur Hp: 43 SpAtt: 6 Def: 4 SpDef: 2
+Nume: Pikachu Hp: 35 SpAtt: 4 Def: 2 SpDef: 3
+Nume: Jigglypuff Hp: 34 Att: 4 Def: 2 SpDef: 3
+
+2022-02-08 20:12:33 [INFO] Sa inceapa meciurile!
+2022-02-08 20:12:33 [INFO] 
+
+Primul duel va incepe!
+2022-02-08 20:12:33 [INFO] George il cheama in batalie pe Pikachu
+2022-02-08 20:12:33 [INFO] Itemele lui Pikachu sunt Scut Vesta Sabiuta 
+2022-02-08 20:12:33 [INFO] Pokemonul s-a echipat si are urmatorarele atribute:
+2022-02-08 20:12:33 [INFO] Nume: Pikachu Hp: 46 SpAtt: 7 Def: 5 SpDef: 3
+2022-02-08 20:12:33 [INFO] Pikachu used SPECIAL_ATTACK which dealt 6(7-1) damage!
+2022-02-08 20:12:33 [INFO] Neutrel2 now has 14 HP!
+2022-02-08 20:12:34 [INFO] Neutrel2 used ATTACK which dealt 0(4-5) damage!
+2022-02-08 20:12:34 [INFO] Pikachu now has 46 HP!
+2022-02-08 20:12:34 [INFO] Pikachu used SPECIAL_ATTACK which dealt 6(7-1) damage!
+2022-02-08 20:12:34 [INFO] Neutrel2 now has 8 HP!
+2022-02-08 20:12:35 [INFO] Neutrel2 used ATTACK which dealt 0(4-5) damage!
+2022-02-08 20:12:35 [INFO] Pikachu now has 46 HP!
+2022-02-08 20:12:35 [INFO] Pikachu used SPECIAL_ATTACK which dealt 6(7-1) damage!
+2022-02-08 20:12:35 [INFO] Neutrel2 now has 2 HP!
+2022-02-08 20:12:36 [INFO] Neutrel2 used ATTACK which dealt 0(4-5) damage!
+2022-02-08 20:12:36 [INFO] Pikachu now has 46 HP!
+2022-02-08 20:12:36 [INFO] Pikachu used ABILITY1 which dealt 6(6-0) damage!
+2022-02-08 20:12:36 [INFO] Neutrel2 now has -4 HP!
+2022-02-08 20:12:37 [INFO] Pikachu has won the match!
+2022-02-08 20:12:37 [INFO] Pokemonul castiagtor al lui George a evoluat!
+2022-02-08 20:12:37 [INFO] Nume: Pikachu Hp: 37 SpAtt: 6 Def: 4 SpDef: 5
+2022-02-08 20:12:37 [INFO] 
+
+Al doilea duel va incepe!
+2022-02-08 20:12:37 [INFO] Ketchum il cheama in batalie pe Pikachu!
+2022-02-08 20:12:37 [INFO] Pokemonul s-a echipat si are urmatorarele atribute:
+2022-02-08 20:12:37 [INFO] Nume: Pikachu Hp: 47 SpAtt: 8 Def: 4 SpDef: 2
+2022-02-08 20:12:37 [INFO] Pikachu used SPECIAL_ATTACK which dealt 7(8-1) damage!
+2022-02-08 20:12:37 [INFO] Neutrel2 now has 13 HP!
+2022-02-08 20:12:38 [INFO] Neutrel2 used ATTACK which dealt 0(4-4) damage!
+2022-02-08 20:12:38 [INFO] Pikachu now has 47 HP!
+2022-02-08 20:12:38 [INFO] Pikachu used ABILITY1 which dealt 6(6-0) damage!
+2022-02-08 20:12:38 [INFO] Neutrel2 now has 7 HP!
+2022-02-08 20:12:39 [INFO] Neutrel2 used ATTACK which dealt 0(4-4) damage!
+2022-02-08 20:12:39 [INFO] Pikachu now has 47 HP!
+2022-02-08 20:12:39 [INFO] Pikachu used SPECIAL_ATTACK which dealt 7(8-1) damage!
+2022-02-08 20:12:39 [INFO] Neutrel2 now has 0 HP!
+2022-02-08 20:12:40 [INFO] Pikachu has won the match!
+2022-02-08 20:12:40 [INFO] Pokemonul castiagtor al lui Ketchum a evoluat!
+2022-02-08 20:12:40 [INFO] Nume: Pikachu Hp: 36 SpAtt: 5 Def: 3 SpDef: 4
+2022-02-08 20:12:40 [INFO] !!!Ambii antrenori au trecut acest eveniment!!!
+2022-02-08 20:12:40 [INFO] !!!Sa trecem la urmatorul eveniment!!!
+2022-02-08 20:12:40 [INFO] 
+
+-----Evenimentul este batalia vs Neutrel1-----
+2022-02-08 20:12:40 [INFO] --Primul antrenor este:
+2022-02-08 20:12:40 [INFO] Antrenorul George cu varsta de 21 si cu pokemonii:
+Nume: Pikachu Hp: 37 SpAtt: 6 Def: 4 SpDef: 5
+Nume: Charmander Hp: 50 Att: 4 Def: 3 SpDef: 2
+Nume: Bulbasaur Hp: 42 SpAtt: 5 Def: 3 SpDef: 1
+
+2022-02-08 20:12:40 [INFO] --Iar cel de-al doilea:
+2022-02-08 20:12:40 [INFO] Antrenorul Ketchum cu varsta de 87 si cu pokemonii:
+Nume: Bulbasaur Hp: 43 SpAtt: 6 Def: 4 SpDef: 2
+Nume: Pikachu Hp: 36 SpAtt: 5 Def: 3 SpDef: 4
+Nume: Jigglypuff Hp: 34 Att: 4 Def: 2 SpDef: 3
+
+2022-02-08 20:12:40 [INFO] Sa inceapa meciurile!
+2022-02-08 20:12:40 [INFO] 
+
+Primul duel va incepe!
+2022-02-08 20:12:40 [INFO] George il cheama in batalie pe Pikachu
+2022-02-08 20:12:40 [INFO] Itemele lui Pikachu sunt Scut Vesta Sabiuta 
+2022-02-08 20:12:40 [INFO] Pokemonul s-a echipat si are urmatorarele atribute:
+2022-02-08 20:12:40 [INFO] Nume: Pikachu Hp: 47 SpAtt: 8 Def: 6 SpDef: 4
+2022-02-08 20:12:40 [INFO] Pikachu used ABILITY1 which dealt 6(6-0) damage!
+2022-02-08 20:12:40 [INFO] Neutrel1 now has 4 HP!
+2022-02-08 20:12:41 [INFO] Neutrel1 used ATTACK which dealt 0(3-6) damage!
+2022-02-08 20:12:41 [INFO] Pikachu now has 47 HP!
+2022-02-08 20:12:41 [INFO] Pikachu used SPECIAL_ATTACK which dealt 7(8-1) damage!
+2022-02-08 20:12:41 [INFO] Neutrel1 now has -3 HP!
+2022-02-08 20:12:42 [INFO] Pikachu has won the match!
+2022-02-08 20:12:42 [INFO] Pokemonul castiagtor al lui George a evoluat!
+2022-02-08 20:12:42 [INFO] Nume: Pikachu Hp: 38 SpAtt: 7 Def: 5 SpDef: 6
+2022-02-08 20:12:42 [INFO] 
+
+Al doilea duel va incepe!
+2022-02-08 20:12:42 [INFO] Ketchum il cheama in batalie pe Jigglypuff!
+2022-02-08 20:12:42 [INFO] Pokemonul s-a echipat si are urmatorarele atribute:
+2022-02-08 20:12:42 [INFO] Nume: Jigglypuff Hp: 44 Att: 7 Def: 5 SpDef: 2
+2022-02-08 20:12:42 [INFO] Jigglypuff used ABILITY1 which dealt 4(4-0) damage!
+2022-02-08 20:12:42 [INFO] Neutrel1 now has 6 HP!
+2022-02-08 20:12:43 [INFO] Neutrel1 is stunned this turn!
+2022-02-08 20:12:43 [INFO] Jigglypuff used ATTACK which dealt 6(7-1) damage!
+2022-02-08 20:12:43 [INFO] Neutrel1 now has 0 HP!
+2022-02-08 20:12:44 [INFO] Jigglypuff has won the match!
+2022-02-08 20:12:44 [INFO] Pokemonul castiagtor al lui Ketchum a evoluat!
+2022-02-08 20:12:44 [INFO] Nume: Jigglypuff Hp: 35 Att: 5 Def: 3 SpDef: 4
+2022-02-08 20:12:44 [INFO] !!!Ambii antrenori au trecut acest eveniment!!!
+2022-02-08 20:12:44 [INFO] !!!Sa trecem la urmatorul eveniment!!!
+2022-02-08 20:12:44 [INFO] 
+
+-----Evenimentul este batalia vs Neutrel2-----
+2022-02-08 20:12:44 [INFO] --Primul antrenor este:
+2022-02-08 20:12:44 [INFO] Antrenorul George cu varsta de 21 si cu pokemonii:
+Nume: Pikachu Hp: 38 SpAtt: 7 Def: 5 SpDef: 6
+Nume: Charmander Hp: 50 Att: 4 Def: 3 SpDef: 2
+Nume: Bulbasaur Hp: 42 SpAtt: 5 Def: 3 SpDef: 1
+
+2022-02-08 20:12:44 [INFO] --Iar cel de-al doilea:
+2022-02-08 20:12:44 [INFO] Antrenorul Ketchum cu varsta de 87 si cu pokemonii:
+Nume: Bulbasaur Hp: 43 SpAtt: 6 Def: 4 SpDef: 2
+Nume: Pikachu Hp: 36 SpAtt: 5 Def: 3 SpDef: 4
+Nume: Jigglypuff Hp: 35 Att: 5 Def: 3 SpDef: 4
+
+2022-02-08 20:12:44 [INFO] Sa inceapa meciurile!
+2022-02-08 20:12:44 [INFO] 
+
+Primul duel va incepe!
+2022-02-08 20:12:44 [INFO] George il cheama in batalie pe Charmander
+2022-02-08 20:12:44 [INFO] Itemele lui Charmander sunt Scut Bagheta Magica Vitamine 
+2022-02-08 20:12:44 [INFO] Pokemonul s-a echipat si are urmatorarele atribute:
+2022-02-08 20:12:44 [INFO] Nume: Charmander Hp: 52 Att: 6 Def: 5 SpDef: 3
+2022-02-08 20:12:44 [INFO] Charmander used ABILITY2 which dealt 7(7-0) damage!
+2022-02-08 20:12:44 [INFO] Neutrel2 now has 13 HP!
+2022-02-08 20:12:45 [INFO] Neutrel2 used ATTACK which dealt 0(4-5) damage!
+2022-02-08 20:12:45 [INFO] Charmander now has 52 HP!
+2022-02-08 20:12:45 [INFO] Charmander used ABILITY1 which dealt 4(4-0) damage!
+2022-02-08 20:12:45 [INFO] Neutrel2 now has 9 HP!
+2022-02-08 20:12:46 [INFO] Neutrel2 is stunned this turn!
+2022-02-08 20:12:46 [INFO] Charmander used ATTACK which dealt 5(6-1) damage!
+2022-02-08 20:12:46 [INFO] Neutrel2 now has 4 HP!
+2022-02-08 20:12:47 [INFO] Neutrel2 used ATTACK which dealt 0(4-5) damage!
+2022-02-08 20:12:47 [INFO] Charmander now has 52 HP!
+2022-02-08 20:12:47 [INFO] Charmander used ATTACK which dealt 5(6-1) damage!
+2022-02-08 20:12:47 [INFO] Neutrel2 now has -1 HP!
+2022-02-08 20:12:48 [INFO] Charmander has won the match!
+2022-02-08 20:12:48 [INFO] Pokemonul castiagtor al lui George a evoluat!
+2022-02-08 20:12:48 [INFO] Nume: Charmander Hp: 51 Att: 5 Def: 4 SpDef: 3
+2022-02-08 20:12:48 [INFO] 
+
+Al doilea duel va incepe!
+2022-02-08 20:12:48 [INFO] Ketchum il cheama in batalie pe Jigglypuff!
+2022-02-08 20:12:48 [INFO] Pokemonul s-a echipat si are urmatorarele atribute:
+2022-02-08 20:12:48 [INFO] Nume: Jigglypuff Hp: 45 Att: 8 Def: 6 SpDef: 3
+2022-02-08 20:12:48 [INFO] Jigglypuff used ATTACK which dealt 7(8-1) damage!
+2022-02-08 20:12:48 [INFO] Neutrel2 now has 13 HP!
+2022-02-08 20:12:49 [INFO] Neutrel2 used ATTACK which dealt 0(4-6) damage!
+2022-02-08 20:12:49 [INFO] Jigglypuff now has 45 HP!
+2022-02-08 20:12:49 [INFO] Jigglypuff used ABILITY2 which dealt 3(3-0) damage!
+2022-02-08 20:12:49 [INFO] Neutrel2 now has 10 HP!
+2022-02-08 20:12:50 [INFO] Neutrel2 is stunned this turn!
+2022-02-08 20:12:50 [INFO] Jigglypuff used ATTACK which dealt 7(8-1) damage!
+2022-02-08 20:12:50 [INFO] Neutrel2 now has 3 HP!
+2022-02-08 20:12:51 [INFO] Neutrel2 used ATTACK which dealt 0(4-6) damage!
+2022-02-08 20:12:51 [INFO] Jigglypuff now has 45 HP!
+2022-02-08 20:12:51 [INFO] Jigglypuff used ATTACK which dealt 7(8-1) damage!
+2022-02-08 20:12:51 [INFO] Neutrel2 now has -4 HP!
+2022-02-08 20:12:52 [INFO] Jigglypuff has won the match!
+2022-02-08 20:12:52 [INFO] Pokemonul castiagtor al lui Ketchum a evoluat!
+2022-02-08 20:12:52 [INFO] Nume: Jigglypuff Hp: 36 Att: 6 Def: 4 SpDef: 5
+2022-02-08 20:12:52 [INFO] !!!Ambii antrenori au trecut acest eveniment!!!
+2022-02-08 20:12:52 [INFO] !!!Sa trecem la urmatorul eveniment!!!
+2022-02-08 20:12:52 [INFO] 
+
+-----Evenimentul este batalia Antrenor vs Antrenor-----
+2022-02-08 20:12:52 [INFO] --Primul antrenor este:
+2022-02-08 20:12:52 [INFO] Antrenorul George cu varsta de 21 si cu pokemonii:
+Nume: Pikachu Hp: 38 SpAtt: 7 Def: 5 SpDef: 6
+Nume: Charmander Hp: 51 Att: 5 Def: 4 SpDef: 3
+Nume: Bulbasaur Hp: 42 SpAtt: 5 Def: 3 SpDef: 1
+
+2022-02-08 20:12:52 [INFO] --Iar cel de-al doilea:
+2022-02-08 20:12:52 [INFO] Antrenorul Ketchum cu varsta de 87 si cu pokemonii:
+Nume: Bulbasaur Hp: 43 SpAtt: 6 Def: 4 SpDef: 2
+Nume: Pikachu Hp: 36 SpAtt: 5 Def: 3 SpDef: 4
+Nume: Jigglypuff Hp: 36 Att: 6 Def: 4 SpDef: 5
+
+2022-02-08 20:12:52 [INFO] Sa inceapa meciurile!
+2022-02-08 20:12:52 [INFO] 
+
+---Batalia numarul 1 este intre Pikachu si Bulbasaur
+
+
+2022-02-08 20:12:52 [INFO] 
+Itemele lui Pikachu sunt Scut Vesta Sabiuta 
+
+2022-02-08 20:12:52 [INFO] Si are urmatoarele stats dupa echipare:
+2022-02-08 20:12:52 [INFO] Nume: Pikachu Hp: 48 SpAtt: 9 Def: 7 SpDef: 5
+2022-02-08 20:12:52 [INFO] 
+Itemele lui Bulbasaur sunt Scut Vitamine Brad de craciun 
+
+2022-02-08 20:12:52 [INFO] Si are urmatoarele stats dupa echipare:
+2022-02-08 20:12:52 [INFO] Nume: Bulbasaur Hp: 45 SpAtt: 10 Def: 7 SpDef: 4
+
+2022-02-08 20:12:52 [INFO] Pikachu used SPECIAL_ATTACK which dealt 5(9-4) damage!
+2022-02-08 20:12:52 [INFO] Bulbasaur now has 40 HP!
+2022-02-08 20:12:53 [INFO] Bulbasaur used SPECIAL_ATTACK which dealt 5(10-5) damage!
+2022-02-08 20:12:53 [INFO] Pikachu now has 43 HP!
+2022-02-08 20:12:53 [INFO] Pikachu used ABILITY2 which dealt 4(4-0) damage!
+2022-02-08 20:12:53 [INFO] Bulbasaur now has 36 HP!
+2022-02-08 20:12:54 [INFO] Pikachu is dodging this turn!
+2022-02-08 20:12:54 [INFO] Pikachu used SPECIAL_ATTACK which dealt 5(9-4) damage!
+2022-02-08 20:12:54 [INFO] Bulbasaur now has 31 HP!
+2022-02-08 20:12:55 [INFO] Bulbasaur is stunned this turn!
+2022-02-08 20:12:55 [INFO] Pikachu used ABILITY1 which dealt 6(6-0) damage!
+2022-02-08 20:12:55 [INFO] Bulbasaur now has 25 HP!
+2022-02-08 20:12:56 [INFO] Bulbasaur used ABILITY2 which dealt 5(5-0) damage!
+2022-02-08 20:12:56 [INFO] Pikachu now has 38 HP!
+2022-02-08 20:12:56 [INFO] Pikachu used SPECIAL_ATTACK which dealt 5(9-4) damage!
+2022-02-08 20:12:56 [INFO] Bulbasaur now has 20 HP!
+2022-02-08 20:12:57 [INFO] Bulbasaur used ABILITY1 which dealt 6(6-0) damage!
+2022-02-08 20:12:57 [INFO] Pikachu now has 32 HP!
+2022-02-08 20:12:57 [INFO] Pikachu used SPECIAL_ATTACK which dealt 5(9-4) damage!
+2022-02-08 20:12:57 [INFO] Bulbasaur now has 15 HP!
+2022-02-08 20:12:58 [INFO] Bulbasaur used SPECIAL_ATTACK which dealt 5(10-5) damage!
+2022-02-08 20:12:58 [INFO] Pikachu now has 27 HP!
+2022-02-08 20:12:58 [INFO] Pikachu used SPECIAL_ATTACK which dealt 5(9-4) damage!
+2022-02-08 20:12:58 [INFO] Bulbasaur now has 10 HP!
+2022-02-08 20:12:59 [INFO] Bulbasaur used SPECIAL_ATTACK which dealt 5(10-5) damage!
+2022-02-08 20:12:59 [INFO] Pikachu now has 22 HP!
+2022-02-08 20:12:59 [INFO] Pikachu used SPECIAL_ATTACK which dealt 5(9-4) damage!
+2022-02-08 20:12:59 [INFO] Bulbasaur now has 5 HP!
+2022-02-08 20:13:00 [INFO] Bulbasaur used SPECIAL_ATTACK which dealt 5(10-5) damage!
+2022-02-08 20:13:00 [INFO] Pikachu now has 17 HP!
+2022-02-08 20:13:00 [INFO] Pikachu used ABILITY2 which dealt 4(4-0) damage!
+2022-02-08 20:13:00 [INFO] Bulbasaur now has 1 HP!
+2022-02-08 20:13:01 [INFO] Pikachu is dodging this turn!
+2022-02-08 20:13:01 [INFO] Pikachu used ABILITY1 which dealt 6(6-0) damage!
+2022-02-08 20:13:01 [INFO] Bulbasaur now has -5 HP!
+2022-02-08 20:13:02 [INFO] Pikachu has won the match!
+2022-02-08 20:13:02 [INFO] !!Castigatorul este Pikachu!!
+2022-02-08 20:13:02 [INFO] Pokemonul a evoluat si are urmatoare stats:
+2022-02-08 20:13:02 [INFO] Nume: Pikachu Hp: 39 SpAtt: 8 Def: 6 SpDef: 7
+2022-02-08 20:13:02 [INFO] 
+
+---Batalia numarul 2 este intre Charmander si Pikachu
+
+
+2022-02-08 20:13:02 [INFO] 
+Itemele lui Charmander sunt Scut Bagheta Magica Vitamine 
+
+2022-02-08 20:13:02 [INFO] Si are urmatoarele stats dupa echipare:
+2022-02-08 20:13:02 [INFO] Nume: Charmander Hp: 53 Att: 7 Def: 6 SpDef: 4
+2022-02-08 20:13:02 [INFO] 
+Itemele lui Pikachu sunt Vitamine Scut Vesta 
+
+2022-02-08 20:13:02 [INFO] Si are urmatoarele stats dupa echipare:
+2022-02-08 20:13:02 [INFO] Nume: Pikachu Hp: 48 SpAtt: 9 Def: 5 SpDef: 3
+
+2022-02-08 20:13:02 [INFO] Charmander used ATTACK which dealt 2(7-5) damage!
+2022-02-08 20:13:02 [INFO] Pikachu now has 46 HP!
+2022-02-08 20:13:03 [INFO] Pikachu used ABILITY1 which dealt 6(6-0) damage!
+2022-02-08 20:13:03 [INFO] Charmander now has 47 HP!
+2022-02-08 20:13:03 [INFO] Charmander used ABILITY2 which dealt 7(7-0) damage!
+2022-02-08 20:13:03 [INFO] Pikachu now has 39 HP!
+2022-02-08 20:13:04 [INFO] Pikachu used SPECIAL_ATTACK which dealt 5(9-4) damage!
+2022-02-08 20:13:04 [INFO] Charmander now has 42 HP!
+2022-02-08 20:13:04 [INFO] Charmander used ABILITY1 which dealt 4(4-0) damage!
+2022-02-08 20:13:04 [INFO] Pikachu now has 35 HP!
+2022-02-08 20:13:05 [INFO] Pikachu is stunned this turn!
+2022-02-08 20:13:05 [INFO] Charmander used ATTACK which dealt 2(7-5) damage!
+2022-02-08 20:13:05 [INFO] Pikachu now has 33 HP!
+2022-02-08 20:13:06 [INFO] Pikachu used SPECIAL_ATTACK which dealt 5(9-4) damage!
+2022-02-08 20:13:06 [INFO] Charmander now has 37 HP!
+2022-02-08 20:13:06 [INFO] Charmander used ATTACK which dealt 2(7-5) damage!
+2022-02-08 20:13:06 [INFO] Pikachu now has 31 HP!
+2022-02-08 20:13:07 [INFO] Pikachu used ABILITY2 which dealt 4(4-0) damage!
+2022-02-08 20:13:07 [INFO] Charmander now has 33 HP!
+2022-02-08 20:13:07 [INFO] Pikachu is dodging this turn!
+2022-02-08 20:13:08 [INFO] Pikachu used SPECIAL_ATTACK which dealt 5(9-4) damage!
+2022-02-08 20:13:08 [INFO] Charmander now has 28 HP!
+2022-02-08 20:13:08 [INFO] Charmander is stunned this turn!
+2022-02-08 20:13:09 [INFO] Pikachu used SPECIAL_ATTACK which dealt 5(9-4) damage!
+2022-02-08 20:13:09 [INFO] Charmander now has 23 HP!
+2022-02-08 20:13:09 [INFO] Charmander used ABILITY2 which dealt 7(7-0) damage!
+2022-02-08 20:13:09 [INFO] Pikachu now has 24 HP!
+2022-02-08 20:13:10 [INFO] Pikachu used SPECIAL_ATTACK which dealt 5(9-4) damage!
+2022-02-08 20:13:10 [INFO] Charmander now has 18 HP!
+2022-02-08 20:13:10 [INFO] Charmander used ABILITY1 which dealt 4(4-0) damage!
+2022-02-08 20:13:10 [INFO] Pikachu now has 20 HP!
+2022-02-08 20:13:11 [INFO] Pikachu is stunned this turn!
+2022-02-08 20:13:11 [INFO] Charmander used ATTACK which dealt 2(7-5) damage!
+2022-02-08 20:13:11 [INFO] Pikachu now has 18 HP!
+2022-02-08 20:13:12 [INFO] Pikachu used ABILITY1 which dealt 6(6-0) damage!
+2022-02-08 20:13:12 [INFO] Charmander now has 12 HP!
+2022-02-08 20:13:12 [INFO] Charmander used ATTACK which dealt 2(7-5) damage!
+2022-02-08 20:13:12 [INFO] Pikachu now has 16 HP!
+2022-02-08 20:13:13 [INFO] Pikachu used ABILITY2 which dealt 4(4-0) damage!
+2022-02-08 20:13:13 [INFO] Charmander now has 8 HP!
+2022-02-08 20:13:13 [INFO] Pikachu is dodging this turn!
+2022-02-08 20:13:14 [INFO] Pikachu used SPECIAL_ATTACK which dealt 5(9-4) damage!
+2022-02-08 20:13:14 [INFO] Charmander now has 3 HP!
+2022-02-08 20:13:14 [INFO] Charmander is stunned this turn!
+2022-02-08 20:13:15 [INFO] Pikachu used SPECIAL_ATTACK which dealt 5(9-4) damage!
+2022-02-08 20:13:15 [INFO] Charmander now has -2 HP!
+2022-02-08 20:13:15 [INFO] !!Castigatorul este Pikachu!!
+2022-02-08 20:13:15 [INFO] Pokemon a evoluat si are urmatoarele stats:
+2022-02-08 20:13:15 [INFO] Nume: Pikachu Hp: 37 SpAtt: 6 Def: 4 SpDef: 5
+2022-02-08 20:13:15 [INFO] 
+
+---Batalia numarul 3 este intre Bulbasaur si Jigglypuff
+
+
+2022-02-08 20:13:15 [INFO] 
+Itemele lui Bulbasaur sunt Vitamine Vesta Scut 
+
+2022-02-08 20:13:15 [INFO] Si are urmatoarele stats dupa echipare:
+2022-02-08 20:13:15 [INFO] Nume: Bulbasaur Hp: 54 SpAtt: 9 Def: 5 SpDef: 3
+2022-02-08 20:13:15 [INFO] 
+Itemele lui Jigglypuff sunt Brad de craciun Vesta Scut 
+
+2022-02-08 20:13:15 [INFO] Si are urmatoarele stats dupa echipare:
+2022-02-08 20:13:15 [INFO] Nume: Jigglypuff Hp: 46 Att: 9 Def: 7 SpDef: 4
+
+2022-02-08 20:13:15 [INFO] Bulbasaur used ABILITY1 which dealt 6(6-0) damage!
+2022-02-08 20:13:15 [INFO] Jigglypuff now has 40 HP!
+2022-02-08 20:13:16 [INFO] Jigglypuff used ATTACK which dealt 4(9-5) damage!
+2022-02-08 20:13:16 [INFO] Bulbasaur now has 50 HP!
+2022-02-08 20:13:16 [INFO] Bulbasaur used ABILITY2 which dealt 5(5-0) damage!
+2022-02-08 20:13:16 [INFO] Jigglypuff now has 35 HP!
+2022-02-08 20:13:17 [INFO] Jigglypuff used ABILITY2 which dealt 3(3-0) damage!
+2022-02-08 20:13:17 [INFO] Bulbasaur now has 47 HP!
+2022-02-08 20:13:17 [INFO] Bulbasaur is stunned this turn!
+2022-02-08 20:13:18 [INFO] Jigglypuff used ABILITY1 which dealt 4(4-0) damage!
+2022-02-08 20:13:18 [INFO] Bulbasaur now has 43 HP!
+2022-02-08 20:13:18 [INFO] Bulbasaur is stunned this turn!
+2022-02-08 20:13:19 [INFO] Jigglypuff used ATTACK which dealt 4(9-5) damage!
+2022-02-08 20:13:19 [INFO] Bulbasaur now has 39 HP!
+2022-02-08 20:13:19 [INFO] Bulbasaur used ABILITY1 which dealt 6(6-0) damage!
+2022-02-08 20:13:19 [INFO] Jigglypuff now has 29 HP!
+2022-02-08 20:13:20 [INFO] Jigglypuff used ATTACK which dealt 4(9-5) damage!
+2022-02-08 20:13:20 [INFO] Bulbasaur now has 35 HP!
+2022-02-08 20:13:20 [INFO] Bulbasaur used SPECIAL_ATTACK which dealt 5(9-4) damage!
+2022-02-08 20:13:20 [INFO] Jigglypuff now has 24 HP!
+2022-02-08 20:13:21 [INFO] Jigglypuff used ATTACK which dealt 4(9-5) damage!
+2022-02-08 20:13:21 [INFO] Bulbasaur now has 31 HP!
+2022-02-08 20:13:21 [INFO] Bulbasaur used ABILITY2 which dealt 5(5-0) damage!
+2022-02-08 20:13:21 [INFO] Jigglypuff now has 19 HP!
+2022-02-08 20:13:22 [INFO] Jigglypuff used ATTACK which dealt 4(9-5) damage!
+2022-02-08 20:13:22 [INFO] Bulbasaur now has 27 HP!
+2022-02-08 20:13:22 [INFO] Bulbasaur used SPECIAL_ATTACK which dealt 5(9-4) damage!
+2022-02-08 20:13:22 [INFO] Jigglypuff now has 14 HP!
+2022-02-08 20:13:23 [INFO] Jigglypuff used ABILITY2 which dealt 3(3-0) damage!
+2022-02-08 20:13:23 [INFO] Bulbasaur now has 24 HP!
+2022-02-08 20:13:23 [INFO] Bulbasaur is stunned this turn!
+2022-02-08 20:13:24 [INFO] Jigglypuff used ATTACK which dealt 4(9-5) damage!
+2022-02-08 20:13:24 [INFO] Bulbasaur now has 20 HP!
+2022-02-08 20:13:24 [INFO] Bulbasaur used SPECIAL_ATTACK which dealt 5(9-4) damage!
+2022-02-08 20:13:24 [INFO] Jigglypuff now has 9 HP!
+2022-02-08 20:13:25 [INFO] Jigglypuff used ATTACK which dealt 4(9-5) damage!
+2022-02-08 20:13:25 [INFO] Bulbasaur now has 16 HP!
+2022-02-08 20:13:25 [INFO] Bulbasaur used SPECIAL_ATTACK which dealt 5(9-4) damage!
+2022-02-08 20:13:25 [INFO] Jigglypuff now has 4 HP!
+2022-02-08 20:13:26 [INFO] Jigglypuff used ATTACK which dealt 4(9-5) damage!
+2022-02-08 20:13:26 [INFO] Bulbasaur now has 12 HP!
+2022-02-08 20:13:26 [INFO] Bulbasaur used SPECIAL_ATTACK which dealt 5(9-4) damage!
+2022-02-08 20:13:26 [INFO] Jigglypuff now has -1 HP!
+2022-02-08 20:13:27 [INFO] Bulbasaur has won the match!
+2022-02-08 20:13:27 [INFO] !!Castigatorul este Bulbasaur!!
+2022-02-08 20:13:27 [INFO] Pokemonul a evoluat si are urmatoare stats:
+2022-02-08 20:13:27 [INFO] Nume: Bulbasaur Hp: 43 SpAtt: 6 Def: 4 SpDef: 2
+2022-02-08 20:13:27 [INFO] 
+
+------Urmeaza ultima batalie intre cei mai buni pokemoni ai fiecarui antrenor!------
+
+
+2022-02-08 20:13:27 [INFO] Cel mai bun pokemon al lui George este:
+2022-02-08 20:13:27 [INFO] Nume: Charmander Hp: 51 Att: 5 Def: 4 SpDef: 4
+
+2022-02-08 20:13:27 [INFO] Iar cel mai bun pokemon al lui Ketchum este:
+2022-02-08 20:13:27 [INFO] Nume: Bulbasaur Hp: 43 SpAtt: 6 Def: 4 SpDef: 4
+
+2022-02-08 20:13:27 [INFO] Charmander are urmatoare iteme: Scut Bagheta Magica Vitamine 
+2022-02-08 20:13:27 [INFO] si urmatoarele stats dupa echipare:
+2022-02-08 20:13:27 [INFO] Nume: Charmander Hp: 53 Att: 7 Def: 6 SpDef: 4
+
+2022-02-08 20:13:27 [INFO] Bulbasaur are urmarele iteme: Scut Vitamine Brad de craciun 
+2022-02-08 20:13:27 [INFO] si urmatoarele stats dupa echipare:
+2022-02-08 20:13:27 [INFO] Nume: Bulbasaur Hp: 45 SpAtt: 10 Def: 7 SpDef: 4
+
+2022-02-08 20:13:27 [INFO] Acum ca a trecut echiparea, sa inceapa ultimul meci!
+2022-02-08 20:13:27 [INFO] Charmander used ATTACK which dealt 0(7-7) damage!
+2022-02-08 20:13:27 [INFO] Bulbasaur now has 45 HP!
+2022-02-08 20:13:28 [INFO] Bulbasaur used ABILITY1 which dealt 6(6-0) damage!
+2022-02-08 20:13:28 [INFO] Charmander now has 47 HP!
+2022-02-08 20:13:28 [INFO] Charmander used ABILITY2 which dealt 7(7-0) damage!
+2022-02-08 20:13:28 [INFO] Bulbasaur now has 38 HP!
+2022-02-08 20:13:29 [INFO] Bulbasaur used ABILITY2 which dealt 5(5-0) damage!
+2022-02-08 20:13:29 [INFO] Charmander now has 42 HP!
+2022-02-08 20:13:29 [INFO] Charmander used ABILITY1 which dealt 4(4-0) damage!
+2022-02-08 20:13:29 [INFO] Bulbasaur now has 34 HP!
+2022-02-08 20:13:30 [INFO] Bulbasaur is stunned this turn!
+2022-02-08 20:13:30 [INFO] Charmander used ATTACK which dealt 0(7-7) damage!
+2022-02-08 20:13:30 [INFO] Bulbasaur now has 34 HP!
+2022-02-08 20:13:31 [INFO] Bulbasaur used ABILITY1 which dealt 6(6-0) damage!
+2022-02-08 20:13:31 [INFO] Charmander now has 36 HP!
+2022-02-08 20:13:31 [INFO] Charmander used ATTACK which dealt 0(7-7) damage!
+2022-02-08 20:13:31 [INFO] Bulbasaur now has 34 HP!
+2022-02-08 20:13:32 [INFO] Bulbasaur used ABILITY2 which dealt 5(5-0) damage!
+2022-02-08 20:13:32 [INFO] Charmander now has 31 HP!
+2022-02-08 20:13:32 [INFO] Charmander used ATTACK which dealt 0(7-7) damage!
+2022-02-08 20:13:32 [INFO] Bulbasaur now has 34 HP!
+2022-02-08 20:13:33 [INFO] Bulbasaur used SPECIAL_ATTACK which dealt 6(10-4) damage!
+2022-02-08 20:13:33 [INFO] Charmander now has 25 HP!
+2022-02-08 20:13:33 [INFO] Charmander used ATTACK which dealt 0(7-7) damage!
+2022-02-08 20:13:33 [INFO] Bulbasaur now has 34 HP!
+2022-02-08 20:13:34 [INFO] Bulbasaur used SPECIAL_ATTACK which dealt 6(10-4) damage!
+2022-02-08 20:13:34 [INFO] Charmander now has 19 HP!
+2022-02-08 20:13:34 [INFO] Charmander used ATTACK which dealt 0(7-7) damage!
+2022-02-08 20:13:34 [INFO] Bulbasaur now has 34 HP!
+2022-02-08 20:13:35 [INFO] Bulbasaur used ABILITY1 which dealt 6(6-0) damage!
+2022-02-08 20:13:35 [INFO] Charmander now has 13 HP!
+2022-02-08 20:13:35 [INFO] Charmander used ABILITY2 which dealt 7(7-0) damage!
+2022-02-08 20:13:35 [INFO] Bulbasaur now has 27 HP!
+2022-02-08 20:13:36 [INFO] Bulbasaur used ABILITY2 which dealt 5(5-0) damage!
+2022-02-08 20:13:36 [INFO] Charmander now has 8 HP!
+2022-02-08 20:13:36 [INFO] Charmander used ABILITY1 which dealt 4(4-0) damage!
+2022-02-08 20:13:36 [INFO] Bulbasaur now has 23 HP!
+2022-02-08 20:13:37 [INFO] Bulbasaur is stunned this turn!
+2022-02-08 20:13:37 [INFO] Charmander used ATTACK which dealt 0(7-7) damage!
+2022-02-08 20:13:37 [INFO] Bulbasaur now has 23 HP!
+2022-02-08 20:13:38 [INFO] Bulbasaur used ABILITY2 which dealt 5(5-0) damage!
+2022-02-08 20:13:38 [INFO] Charmander now has 3 HP!
+2022-02-08 20:13:38 [INFO] Charmander used ATTACK which dealt 0(7-7) damage!
+2022-02-08 20:13:38 [INFO] Bulbasaur now has 23 HP!
+2022-02-08 20:13:39 [INFO] Bulbasaur used SPECIAL_ATTACK which dealt 6(10-4) damage!
+2022-02-08 20:13:39 [INFO] Charmander now has -3 HP!
+2022-02-08 20:13:39 [INFO] !!!!!!Bulbasaur a castigat meciul final!!!!!
+2022-02-08 20:13:39 [INFO] Iar Ketchum a castigat toata aventura!
